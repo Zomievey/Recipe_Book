@@ -1,0 +1,11 @@
+.recipe-column :hover {
+  color: black;
+}
+
+#recipe-name :hover {
+  color: gray;
+}
+
+.recipe-title{
+  font-size: 40px;
+}

@@ -1,0 +1,40 @@
+.sidebar {
+  
+  height: 100%;
+  width: 274px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: lightblue;
+  /* background-color: rgb(103 215 251 / 35%); */
+  /* background-color: rgb(209, 245, 255); */
+  overflow: hidden; 
+  z-index: -5;
+  /* filter: drop-shadow(0px 10px 8px rgb(56, 56, 56)); */
+}
+
+.sidebar div {
+  padding: 8px;
+  font-size: 24px;
+  display: block;
+}
+
+.body-text {
+  margin-left: 150px;
+  font-size: 18px;
+}
+
+.sidebar-image {
+  /* background: url('../shared/media/sidepanel.png') no-repeat; */
+  background-size: cover;
+  height: 100%;
+  width: 276px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  
+  opacity: 0.1;
+  overflow: hidden; 
+
+}
+

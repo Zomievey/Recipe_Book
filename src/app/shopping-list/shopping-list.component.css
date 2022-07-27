@@ -1,0 +1,7 @@
+.list-hover :hover {
+    color: gray;
+}
+
+.list-hover {
+    font-size: 1.5em;
+}
